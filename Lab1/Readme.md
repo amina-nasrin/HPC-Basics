@@ -9,6 +9,4 @@ Output with N = 4
 Output with N = 8
 
 
-![Screenshot from 2023-01-28 10-08-03](https://media.git.txstate.edu/user/3137/files/a6aa1ba3-9193-4beb-9a81-0e40a1b977d0)
-
-
+<img width="598" height="217" alt="a6aa1ba3-9193-4beb-9a81-0e40a1b977d0" src="https://github.com/user-attachments/assets/e3e20824-060d-4842-a1c5-326ef1609db3" />
