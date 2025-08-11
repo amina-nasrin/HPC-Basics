@@ -10,10 +10,11 @@
 date
 
 export OMP_NUM_THREADS=16
-export OMP_PROC_BIND=[core|socket]
+export OMP_PLACES=[core|socket]
 export OMP_PROC_BIND=[close|spread]
 
 ibrun ./asgn6 1000000 100
 
 date
+
 
