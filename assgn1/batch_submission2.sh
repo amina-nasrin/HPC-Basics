@@ -112,11 +112,6 @@ for sched in "${SCHEDULES[@]}"; do
   done
 done
 
-# -------------------------
-# Final: aggregate and notify
-# -------------------------
 echo "All experiments finished. Results directory: ${RESULT_DIR}"
 echo "Files:"
 ls -lh "${RESULT_DIR}"
-echo "You should verify that the computed result matches the sequential application output."
-echo "Tip: if compute_pi prints the computed value, you can redirect stdout to files and diff them."
